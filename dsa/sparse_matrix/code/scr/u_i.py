@@ -1,3 +1,4 @@
+'''Main function to interact with the user and perform matrix operations.'''
 import os
 from sparse_matrix import SpareMatrix
 
